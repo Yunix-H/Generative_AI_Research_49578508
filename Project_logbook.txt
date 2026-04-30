@@ -1,0 +1,7 @@
+Project Logbook
+
+Line 1: This project studies the use of generative AI tools.
+Line 2: Literature review materials are stored in the literature_review folder.
+Line 3: Quantitative analysis materials are stored in the quantitative_analysis folder.
+Line 4: Qualitative analysis materials are stored in the qualitative_analysis folder.
+Line 5: Team members should use clear commit messages when making changes.
